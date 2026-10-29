@@ -1,6 +1,6 @@
 # رفيق (Rafeeq) — SDAIA Agentic AI Capstone
 **Track:** Rafeeq in Production  
-**Author:** مريم هلال المطيري  
+**Author:** Maryam Helal Subhan  
 **Programme:** SDAIA Academy — Agentic AI Systems Engineering  
 **Status:** runnable educational prototype; live model/MCP integration requires configuration.
 
@@ -66,9 +66,8 @@ This is a prototype using fictional municipality data. It does not submit real p
 
 ## Official SDAIA references
 
-- SDAIA Academy Agentic AI learning portal: https://sdaiaacademy.github.io/agentic-ai/
-- SDAIA Academy Agentic AI capstone repository: https://github.com/SDAIAAcademy/agentic-ai/tree/main/labs/capstone
-- SDAIA Academy official website: https://sdaia.gov.sa/ar/Sectors/BuildingCapacity/academy/Pages/default.aspx
+- [Advanced Agentic AI Systems Engineering - SDAIA Academy](https://github.com/sdaiaacademy/agentic-ai/)
 
-Project author: **Maryam Helal Subhan**.
+
+
 
